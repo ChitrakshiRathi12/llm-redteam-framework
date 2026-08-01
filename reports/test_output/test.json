@@ -1,0 +1,93 @@
+{
+  "model": "llama3.2",
+  "total_attacks": 5,
+  "vulnerabilities": 0,
+  "vulnerability_rate": 0.0,
+  "by_severity": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 0
+  },
+  "by_owasp": {
+    "LLM01 \u2014 Prompt Injection": {
+      "total": 5,
+      "vulnerable": 0
+    }
+  },
+  "scan_start": "2026-08-01T11:46:32.930278",
+  "scan_end": "2026-08-01T11:46:32.930278",
+  "results": [
+    {
+      "attack_name": "Test attack",
+      "owasp_id": "LLM01",
+      "owasp_title": "Prompt Injection",
+      "prompt": "test prompt",
+      "response": "test response",
+      "vulnerable": false,
+      "severity": "HIGH",
+      "description": "Test description",
+      "finding": "Test finding",
+      "recommendation": "Test recommendation",
+      "duration_ms": 500.0,
+      "timestamp": "2026-08-01T11:46:32.930278"
+    },
+    {
+      "attack_name": "Test attack",
+      "owasp_id": "LLM01",
+      "owasp_title": "Prompt Injection",
+      "prompt": "test prompt",
+      "response": "test response",
+      "vulnerable": false,
+      "severity": "HIGH",
+      "description": "Test description",
+      "finding": "Test finding",
+      "recommendation": "Test recommendation",
+      "duration_ms": 500.0,
+      "timestamp": "2026-08-01T11:46:32.930278"
+    },
+    {
+      "attack_name": "Test attack",
+      "owasp_id": "LLM01",
+      "owasp_title": "Prompt Injection",
+      "prompt": "test prompt",
+      "response": "test response",
+      "vulnerable": false,
+      "severity": "HIGH",
+      "description": "Test description",
+      "finding": "Test finding",
+      "recommendation": "Test recommendation",
+      "duration_ms": 500.0,
+      "timestamp": "2026-08-01T11:46:32.930278"
+    },
+    {
+      "attack_name": "Test attack",
+      "owasp_id": "LLM01",
+      "owasp_title": "Prompt Injection",
+      "prompt": "test prompt",
+      "response": "test response",
+      "vulnerable": false,
+      "severity": "HIGH",
+      "description": "Test description",
+      "finding": "Test finding",
+      "recommendation": "Test recommendation",
+      "duration_ms": 500.0,
+      "timestamp": "2026-08-01T11:46:32.930278"
+    },
+    {
+      "attack_name": "Test attack",
+      "owasp_id": "LLM01",
+      "owasp_title": "Prompt Injection",
+      "prompt": "test prompt",
+      "response": "test response",
+      "vulnerable": false,
+      "severity": "HIGH",
+      "description": "Test description",
+      "finding": "Test finding",
+      "recommendation": "Test recommendation",
+      "duration_ms": 500.0,
+      "timestamp": "2026-08-01T11:46:32.930278"
+    }
+  ]
+}
